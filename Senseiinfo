@@ -1,0 +1,76 @@
+<!--Doctype html-->
+<!-- first project dedicated to my mentor Sensei Ikeda. -->
+<html>
+<style>
+  .box {
+    text-align: justify;
+    font-size: 18px;
+    margin: 50px 120px 120px 120px;
+    background-color: lightgrey;
+    padding-bottom: 75px;
+  }
+  h1 {
+    font-size: 32px;
+    text-align: center;
+    margin-top: 25px;
+    padding-top: 15px;
+  }
+  .imgsi {
+    border-color: white;
+    border-width: 5px;
+    border-style: ridge;
+    padding-bottom: 26px;
+    margin-left: 230px
+  }
+  #ind {
+    margin-left: 112px;
+    padding-right: 125px;
+  }
+  p {
+    font-style: italic;
+    text-align: justify;
+    padding-left: 125px;
+    padding-right: 125px;
+  }
+</style>
+
+<body>
+  <div class="box">
+      <h1>  Sensei Ikeda: A lifelong journey of peace </h1>
+        <img class="imgsi" src="\projects\codepen\sensei.jpeg"
+        width=600
+        alt="sensei picture">
+      <h3 text align = "center"> Here are some top quotes by Sensei Ikeda: </h3>
+         <ul id = "ind">
+           <li> We are not defeated by adversity but by the loss of the will to strive.
+                However devastated you may feel, so long as you have the will to fight on, you can surely triumph.
+           </li>
+           <li>Rather than becoming discouraged, know that encountering a wall
+           is proof of the progress that you have made so far.
+           </li>
+           <li>Reality is harsh. It can be cruel and ugly. Yet no matter how
+             much we grieve over our environment and circumstances nothing
+             will change. What is important is not to be defeated,
+             to forge ahead bravely. If we do this, a path will open before us.
+           </li>
+           <li>Anyone can hit a wall. The anguish felt then is proof of one’s
+             desire to move forward. But all is for naught if you falter at
+             that moment. Action, that is the key to breaking through an impasse.
+           </li>
+         <li> People do not grow when their environment is too comfortable,
+         when they are not challenged. It is in the midst of suffering and
+         hardship that strength of character is formed.
+         </li>
+           <p>
+           "Why doesn’t constant trampling defeat the dandelion? The key to its
+           strength is its long and sturdy root, which extends deep into the earth.
+           The same principle applies to people. The true victors in life are those who,
+           enduring repeated challenges and setbacks, have sent the roots of their
+           being to such a depth that nothing can shake them."
+           </p>
+To learn more on Nichiren Buddhism and how to apply it in your daily life, read
+more on Sensei Ikeda and his work on <a href="http://www.ikedaquotes.org/"> his page.
+         </ul>
+        </div>
+</body>
+</html>
